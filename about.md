@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm a IT consultant with a decade of industry experiance. Please find my skills and LinkedIn profile below.
+Hi, I'm an IT consultant with a decade of industry experiance working in agile software development.
 
-### Skills
+[comment]: ### Skills
 
-[Click here](/images/SkillSet.png){:class="img-responsive"}
+[comment]: [Click here](/images/SkillSet.png){:class="img-responsive"}
 
 
-### LinkedIn
+[comment]: ### LinkedIn
 
-[Click here] http://bit.ly/2dUy0wn
+[comment]: [Click here] http://bit.ly/2dUy0wn
 
 [comment]: [email@domain.com](mailto:email@domain.com)
