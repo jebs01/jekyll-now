@@ -8,7 +8,7 @@ Hi, I'm a IT consultant with a decade of industry experiance. Please find my ski
 
 ### Skills
 
-http://bit.ly/2dk9DEl
+![Skills](/path/to/Skillset.png){:class="img-responsive"}
 
 ### LinkedIn
 
