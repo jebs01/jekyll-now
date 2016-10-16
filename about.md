@@ -9,6 +9,7 @@ Hi, I'm a IT consultant with a decade of industry experiance. Please find my ski
 ### Skills
 
 [image-title-here](/images/SkillSet.png){:class="img-responsive"}
+[image-title-here](https://jebs01.github.io/images/SkillSet.png){:class="img-responsive"}
 
 ### LinkedIn
 
