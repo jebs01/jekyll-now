@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm a IT consultant with a decade of industry experiance. Please find my skills and LinkedIn profile below.
 
-### More Information
+### Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+http://bit.ly/2dk9DEl
 
-### Contact me
+### LinkedIn
 
-[email@domain.com](mailto:email@domain.com)
+http://bit.ly/2dUy0wn
+
+[comment]: [email@domain.com](mailto:email@domain.com)
