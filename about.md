@@ -8,11 +8,11 @@ Hi, I'm a IT consultant with a decade of industry experiance. Please find my ski
 
 ### Skills
 
-[image-title-here](/images/SkillSet.png){:class="img-responsive"}
-[image-title-here](https://jebs01.github.io/images/SkillSet.png){:class="img-responsive"}
+[Click here](/images/SkillSet.png){:class="img-responsive"}
+
 
 ### LinkedIn
 
-http://bit.ly/2dUy0wn
+[Click here] http://bit.ly/2dUy0wn
 
 [comment]: [email@domain.com](mailto:email@domain.com)
