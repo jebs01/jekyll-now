@@ -2,7 +2,7 @@
 layout: post
 title: Scrum Glossary
 ---
-# Scrum Roles
+## Scrum Roles
 
 **Product Owner :** the customer representative who envisions and decides and controls the progress of scrum deliveries.
 
@@ -32,7 +32,7 @@ title: Scrum Glossary
 
 **Project planning :** includes creating a product vision statement and a product roadmap.This is not a scrum activity, but an agile practice.
 
-**Release planning : ** is identifying the next release date and scheduling the set of features, going live with the release. This is not a scrum activity, but an agile practice.
+**Release planning :** is identifying the next release date and scheduling the set of features, going live with the release. This is not a scrum activity, but an agile practice.
 
 **Sprint :** is a one to four week iteration of the team to deliver  shippable ‘done’ product feature or functionality.
 
