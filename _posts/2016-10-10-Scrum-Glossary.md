@@ -2,7 +2,7 @@
 layout: post
 title: Scrum Glossary
 ---
-# Scrum Roles
+### Scrum Roles
 
 **Product Owner :** the customer representative who envisions and decides and controls the progress of scrum deliveries.
 
@@ -14,7 +14,7 @@ title: Scrum Glossary
 
 **Agile mentor :** An experienced agile practitioner who provides feedback and advice for the team success.
 
-# Scrum artifacts
+### Scrum artifacts
 
 **Product vision statement :** A quick summary to indicate the value that the product brings to the organisation. This is not a scrum artifact.
 
@@ -28,7 +28,7 @@ title: Scrum Glossary
 
 **Increment :** The version of working software delivered at the end of every sprint.
 
-# Scrum activities
+### Scrum activities
 
 **Project planning :** includes creating a product vision statement and a product roadmap.This is not a scrum activity, but an agile practice.
 
