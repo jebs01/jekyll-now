@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Scrum Roles
+title: Scrum Glossary
 ---
+# Scrum Roles
+
 **Product Owner :** the customer representative who envisions and decides and controls the progress of scrum deliveries.
 
 **Scrum master :** the facilitator who ensures scrum is followed and team gives their best shot.
@@ -28,7 +30,7 @@ title: Scrum Roles
 
 # Scrum activities
 
-**Project planning : includes creating a product vision statement and a product roadmap.
+**Project planning :** includes creating a product vision statement and a product roadmap.
 
 This is not a scrum activity, but an agile practice.
 
@@ -40,6 +42,6 @@ This is not a scrum activity, but an agile practice.
 
 **Daily sprint :** is daily meetup by the team to discuss yesterday’s activities, today’s plan of action and roadblocks if any
 
-**Sprint review : **happens at the end of sprint where the team demos the product increment.
+**Sprint review : **  happens at the end of sprint where the team demos the product increment.
 
-**Sprint retrospective : **follows sprint review where the team discusses what went well in the sprint and what could improve for future sprints.
+**Sprint retrospective : ** follows sprint review where the team discusses what went well in the sprint and what could improve for future sprints.
