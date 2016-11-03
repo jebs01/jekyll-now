@@ -2,7 +2,7 @@
 layout: post
 title: Scrum Glossary
 ---
-## Scrum Roles
+# Scrum Roles
 
 **Product Owner :** the customer representative who envisions and decides and controls the progress of scrum deliveries.
 
