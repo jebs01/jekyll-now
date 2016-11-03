@@ -2,14 +2,13 @@
 layout: post
 title: Scrum Roles
 ---
+**Product Owner :** the customer representative who envisions and decides and controls the progress of scrum deliveries.
 
-##Product Owner : the customer representative who envisions and decides and controls the progress of scrum deliveries.
+**Scrum master :** the facilitator who ensures scrum is followed and team gives their best shot.
 
-##Scrum master : the facilitator who ensures scrum is followed and team gives their best shot.
+**Development team :** group of professionals who is self organizing and cross functional in nature and is responsible for the product delivery.
 
-##Development team : group of professionals who is self organizing and cross functional in nature and is responsible for the product delivery.
-
-##Stakeholder : Anybody with an interest in the project and is affected by project outcome.
+**Stakeholder :** Anybody with an interest in the project and is affected by project outcome.
 
 ##Agile mentor : An experienced agile practitioner who provides feedback and advice for the team success.
 
