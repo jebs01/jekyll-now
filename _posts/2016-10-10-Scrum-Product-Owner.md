@@ -1,3 +1,7 @@
+---
+layout: post
+title: Scrum Product Owner
+---
 **Who is a product owner?**
 
 The product owner represents the stakeholders and is the voice of customer.
