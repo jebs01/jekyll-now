@@ -1,3 +1,7 @@
+---
+layout: post
+title: Scrum Master 
+---
 
 **Who is scrum master?**
 
