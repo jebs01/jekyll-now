@@ -1,3 +1,8 @@
+---
+layout: post
+title: Scrum Hiccups
+---
+
 In theory, scrum would help any team to deliver high quality products in shorter time periods. However, in practice some project attributes might affect scrum’s agility and product release. In such cases, use and purpose of scrum should be carefully scrutinized for maximum efficiency and effectiveness.
 
 Lets have a look at such scrum limitations,
