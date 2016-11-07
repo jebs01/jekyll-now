@@ -1,3 +1,7 @@
+---
+layout: post
+title: Scrum Development Team
+---
 **Define Development team in scrum.**
 
 A group of professionals responsible for product delivery at the end of every sprint.
