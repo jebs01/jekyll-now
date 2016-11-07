@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve Commandments 
+title: Twelve Commandments of Agile Manifesto 
 ---
 
 
