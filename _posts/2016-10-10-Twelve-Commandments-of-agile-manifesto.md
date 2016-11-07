@@ -1,4 +1,8 @@
 
+---
+layout: post
+title: Twelve Commandments 
+---
 **The Agile Manifesto is based on twelve principles:**
 
 1. Always satisfy the customer with early and continuous delivery of valuable software.
